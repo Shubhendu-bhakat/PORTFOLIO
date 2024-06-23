@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Node js",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on google auth and passport js and done 3 projects using Node js"
+    ],
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "role": "JAVA devloper",
+    "startDate": "Aug, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Solved 300 question on codeChef",
+      "Currently working on DSA skills and solving leetCode problem"
+    ],
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "role": "React Devloper",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Done two peoject using React and IBM wether API"
+    ],
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "role": "Java-Script Devloper",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Made a game(Simon game) using pure java script ",
+      "Made a music app using javaScript"
+    ],
+    "imageSrc": "skills/java-script.png"
+  }
+]

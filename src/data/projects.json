@@ -1,0 +1,50 @@
+[
+  {
+    "title": "TripIndia-MakeTrip",
+    "imageSrc": "projects/wonderLust.png",
+    "description": "This is a project made to help the tourister to find their favourate destinations arround the globle.It also has the fetures of google oath2.o ",
+    "skills": ["Node js","Express js" ,"Passport js","Embeded javaScript","REST API","Mapbox","Cloud","MongoDb","google oath2.o"],
+    "demo": "https://maketrip-in.onrender.com/listings",
+    "source": "https://github.com/Shubhendu-bhakat/TripIndia-MakeTrip.in-"
+  },
+  {
+    "title": "Wether-App",
+    "imageSrc": "projects/wether.png",
+    "description": "Objective is to get the current temperature using the name of a place and by using the Wether API we can get the wether information about that specified place .It has some dainamic fetures which makes it more easy to use",
+    "skills": ["React js", "Express js", "Node js", "IBM Wether API","JSX","babel"],
+    "demo": "https://github.com/Shubhendu-bhakat/WETHER-APP",
+    "source": "https://github.com/Shubhendu-bhakat/WETHER-APP"
+  },
+  {
+    "title": "Agriculture-prediction",
+    "imageSrc": "projects/agri.png",
+    "description": "This is a project made to get the predication of harvest,wether and goverment schemes also.",
+    "skills": ["Node", "Express", "MongoDb","Wether API","Embeded javaScript","javaScript","Google Maps","MVC architecture"],
+    "demo": "https://github.com/Shubhendu-bhakat/Agriculture-prediction",
+    "source": "https://github.com/Shubhendu-bhakat/Agriculture-prediction"
+  },
+  {
+    "title": "Simon-Game",
+    "imageSrc": "projects/simon.png",
+    "description": "This is a game know as Simon game which is amde up of JavaScript and it is completily responsive",
+    "skills": ["javaScript", "Express", "Node","SQL","Html5","CSS","bootstrap"],
+    "demo": "https://github.com/Shubhendu-bhakat/SIMON-GAME",
+    "source": "https://github.com/Shubhendu-bhakat/SIMON-GAME"
+  },
+  {
+    "title": "Amazon Clone",
+    "imageSrc": "projects/amazon.png",
+    "description": "This is a project made to gain some hands on experiance on MERN stack and it is a clone of Amazon.",
+    "skills": ["Express", "Node","javaScript","Embeded javaScript","SQL","bootstrap"],
+    "demo": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE",
+    "source": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE"
+  },
+  {
+    "title": "Utkal Diwas",
+    "imageSrc": "projects/utkaldiwas.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Embeded javaScript", "Express", "Node","bootstrap","Html5","javaScript","MVC architecture"],
+    "demo": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS",
+    "source": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS"
+  }
+]

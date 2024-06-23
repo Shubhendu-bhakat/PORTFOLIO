@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.gif"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/physics.gif"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title":"SQL",
+    "imageSrc":"skills/sql-server.png"
+  },
+  {
+    "title":"Cloud",
+    "imageSrc":"skills/cloud-computing.gif"
+  }
+]
