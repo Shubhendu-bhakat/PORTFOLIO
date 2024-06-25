@@ -1,4 +1,7 @@
 {
+ "engines": {
+  "vite":"10.3.0"
+ },
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
