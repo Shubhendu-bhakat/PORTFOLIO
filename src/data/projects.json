@@ -8,7 +8,15 @@
     "source": "https://github.com/Shubhendu-bhakat/TripIndia-MakeTrip.in-"
   },
   {
-    "title": "Wether-App",
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is a my Portfolio website which i have made using React js  AOS laibrary ,css modules.It is completly responsive on diffrent devices",
+    "skills": ["React js", "Express js", "Node js", "IBM Wether API","JSX","babel"],
+    "demo": "http://shubhenedu.vercel.app/",
+    "source": "https://github.com/Shubhendu-bhakat/PORTFOLIO"
+  },
+  {
+    "title": "Weather-App",
     "imageSrc": "projects/wether.png",
     "description": "Objective is to get the current temperature using the name of a place and by using the Wether API we can get the wether information about that specified place .It has some dainamic fetures which makes it more easy to use",
     "skills": ["React js", "Express js", "Node js", "IBM Wether API","JSX","babel"],
@@ -32,19 +40,20 @@
     "source": "https://github.com/Shubhendu-bhakat/SIMON-GAME"
   },
   {
-    "title": "Amazon Clone",
-    "imageSrc": "projects/amazon.png",
-    "description": "This is a project made to gain some hands on experiance on MERN stack and it is a clone of Amazon.",
-    "skills": ["Express", "Node","javaScript","Embeded javaScript","SQL","bootstrap"],
-    "demo": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE",
-    "source": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE"
-  },
-  {
     "title": "Utkal Diwas",
     "imageSrc": "projects/utkaldiwas.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Embeded javaScript", "Express", "Node","bootstrap","Html5","javaScript","MVC architecture"],
     "demo": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS",
     "source": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS"
+  },
+  {
+    "title": "Amazon Clone",
+    "imageSrc": "projects/amazon.png",
+    "description": "This is a project made to gain some hands on experiance on MERN stack and it is a clone of Amazon.",
+    "skills": ["Express", "Node","javaScript","Embeded javaScript","SQL","bootstrap"],
+    "demo": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE",
+    "source": "https://github.com/Shubhendu-bhakat/AMAZON-CLONE"
   }
+ 
 ]
