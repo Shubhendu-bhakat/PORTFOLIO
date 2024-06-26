@@ -44,7 +44,7 @@
     "imageSrc": "projects/utkaldiwas.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Embeded javaScript", "Express", "Node","bootstrap","Html5","javaScript","MVC architecture"],
-    "demo": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS",
+    "demo": "https://utkal-diwas.onrender.com/",
     "source": "https://github.com/Shubhendu-bhakat/UTKAL-DIWAS"
   },
   {
