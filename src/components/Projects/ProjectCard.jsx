@@ -1,5 +1,10 @@
 import React from "react";
-
+//importing aos (animation on scroll)
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init({
+  offset:120
+});
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -7,7 +12,7 @@ export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
 }) => {
   return (
-    <div className={styles.container}  data-aos="fade-right">
+    <div className={styles.container} data-aos="fade-right" >
       <img
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}

@@ -45,6 +45,10 @@
   font-weight: 400;
   letter-spacing: 1.5px;
 }
+.conImg:hover{
+  background-color: #000000;
+  transition: 0.4s linear;
+}
 
 @media screen and (max-width: 830px) {
   .container {

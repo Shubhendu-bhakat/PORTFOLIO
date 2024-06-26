@@ -1,5 +1,9 @@
 import React from "react";
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init({
+  offset:120
+});
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -9,7 +13,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content} data-aos="fade-left">
         <img
-          src={getImageUrl("about/image.png")}
+          src={getImageUrl("about/im1.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />

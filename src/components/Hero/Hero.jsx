@@ -1,5 +1,9 @@
 import React from "react";
-
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init({
+  offset:120
+});
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -19,7 +23,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("hero/ic2.png")}
+        src={getImageUrl("hero/im2.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

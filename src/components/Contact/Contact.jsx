@@ -1,8 +1,10 @@
 import React from "react";
+//importing AOS for animation on scrool
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
-// ..
-AOS.init();
+import 'aos/dist/aos.css';
+AOS.init({
+  offset:120
+});
 
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
@@ -16,18 +18,23 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}   >
         <li className={styles.link} data-aos="fade-left">
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+          <img src={getImageUrl("contact/emailIcon.png")} 
+          className={styles.conImg}
+          alt="Email icon" />
           <a href="mailto:kumarsubho2003@gmail.com">shubhendu-Bhakat/mail</a>
         </li>
         <li className={styles.link}data-aos="fade-left" >
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
+            className={styles.conImg}
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/shubhendu-bhakat/">Shubhendu-Bhakat/linkedin</a>
         </li>
         <li className={styles.link} >
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+          <img src={getImageUrl("contact/githubIcon.png")}
+          className={styles.conImg}
+          alt="Github icon" />
           <a href="https://github.com/Shubhendu-bhakat">Shubhendu-Bhakat/github</a>
         </li>
       </ul>

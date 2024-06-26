@@ -1,7 +1,6 @@
 import React from "react";
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
-// ..
+import 'aos/dist/aos.css'; 
 AOS.init();
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
