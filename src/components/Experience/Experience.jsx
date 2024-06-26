@@ -1,5 +1,8 @@
 import React from "react";
-
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
+AOS.init();
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
@@ -13,9 +16,9 @@ export const Experience = () => {
         <div className={styles.skills}>
           {skills.map((skill, id) => {
             return (
-              <div key={id} className={styles.skill}>
+              <div key={id} className={styles.skill} data-aos="fade-right">
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title}/>
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -30,7 +33,7 @@ export const Experience = () => {
                   src={getImageUrl(historyItem.imageSrc)}
                   alt={`${historyItem.organisation} Logo`}
                 />
-                <div className={styles.historyItemDetails}>
+                <div className={styles.historyItemDetails} data-aos="fade-left">
                   <h3>{`${historyItem.role}`}</h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>

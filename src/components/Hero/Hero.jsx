@@ -8,7 +8,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi,</h1>
-        <p className={styles.description}>
+        <p className={styles.description}  data-aos="fade-right">
           I’m Shubhendu, a passionate and skilled developer specializing in
           the MERN stack and Java development. Whether it's building dynamic web
           applications or crafting robust backend solutions, I bring a wealth of
