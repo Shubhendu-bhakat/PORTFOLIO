@@ -1,5 +1,13 @@
 [
   {
+    "title": "Legal-Awareness-App(LegalEase)",
+    "imageSrc": "projects/HOME page.jpg",
+    "description": "This App aims to deliver a situation specific solution to the people  when they need any kind of legal assistance and it will provide them link to file complaint without going to several websites ,It is an all in one platform . The people can also connect to the lawyers when needed.",
+    "skills": ["React Native ","LLAMA2 (Large Language Model)" ,"Firebase","AWS(Amazon web services)","Cleark","Deep Learning","StyleSheet API "],
+    "demo": "https://maketrip-in.onrender.com/listings",
+    "source": "https://github.com/Shubhendu-bhakat/TripIndia-MakeTrip.in-"
+  },
+  {
     "title": "TripIndia-MakeTrip",
     "imageSrc": "projects/wonderLust.png",
     "description": "This is a project made to help the tourister to find their favourate destinations arround the globle.It also has the fetures of google oath2.o ",

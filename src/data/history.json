@@ -13,7 +13,7 @@
     "startDate": "Aug, 2021",
     "endDate": "Present",
     "experiences": [
-      "Solved 300 question on codeChef",
+      "Solved 150 question on LeetCode",
       "Currently working on DSA skills and solving leetCode problem"
     ],
     "imageSrc": "skills/java.png"
@@ -36,5 +36,15 @@
       "Made a music app using javaScript"
     ],
     "imageSrc": "skills/java-script.png"
+  },
+  {
+    "role": "React Native Devloper",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Working on a startup project whose app is devloped using REACT NATIVE and stylesheet API , firebase ,LLM "
+      
+    ],
+    "imageSrc": "skills/physics.png"
   }
 ]

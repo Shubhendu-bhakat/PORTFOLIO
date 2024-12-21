@@ -34,5 +34,9 @@
   {
     "title":"Cloud",
     "imageSrc":"skills/cloud-computing.gif"
+  },
+  {
+    "title":"LLM(Large Language Model)",
+    "imageSrc":"skills/physics.png"
   }
 ]
