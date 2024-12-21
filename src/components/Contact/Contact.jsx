@@ -41,7 +41,7 @@ export const Contact = () => {
           <img src={getImageUrl("contact/leetcode.png")}
           className={styles.conImg}
           alt="LeetCode icon" />
-          <a href="https://leetcode.com/u/shubhendu_bhakat/">Shubhendu-Bhakat/leetcode</a>
+          <a href="https://leetcode(1).com/u/shubhendu_bhakat/">Shubhendu-Bhakat/leetcode</a>
         </li>
       </ul>
     </footer>
