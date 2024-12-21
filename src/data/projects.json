@@ -3,7 +3,7 @@
     "title": "Legal-Awareness-App(LegalEase)",
     "imageSrc": "projects/Home page.jpg",
     "description": "This App aims to deliver a situation specific solution to the people  when they need any kind of legal assistance and it will provide them link to file complaint without going to several websites ,It is an all in one platform . The people can also connect to the lawyers when needed.",
-    "skills": ["React Native ","LLAMA2 (Large Language Model)" ,"Firebase","AWS(Amazon web services)","Cleark","Deep Learning","StyleSheet API "],
+    "skills": ["React Native ","LLAMA2 (Large Language Model)" ,"Firebase","AWS"],
     "demo": "https://maketrip-in.onrender.com/listings",
     "source": "https://github.com/Shubhendu-bhakat/TripIndia-MakeTrip.in-"
   },
