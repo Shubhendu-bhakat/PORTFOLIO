@@ -37,6 +37,10 @@
   },
   {
     "title":"LLM(Large Language Model)",
-    "imageSrc":"skills/physics.png"
+    "imageSrc":"skills/processor.png"
+  },
+  {
+    "title":"React Native",
+    "imageSrc":"skills/physics.gif"
   }
 ]
