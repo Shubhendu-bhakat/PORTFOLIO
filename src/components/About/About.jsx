@@ -29,6 +29,16 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Mobile Application devloper (React Native)</h3>
+              <p>
+                I'm a React Native devloper with 1 year of experience and expertise on building
+                hybrid mobile application(for Both android and IOs)
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
@@ -43,8 +53,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Java Devloper</h3>
               <p>
-                I am using java as my Coding language i have solved 300 problems on CodeChef and currently i am focusing on my DSA 
-                strength.
+                I am among the top 40% coders in leetcode in world wide , having strong knowledge
+                of data structure and algorithms, feel free to explore my leetcode prfile below.
               </p>
             </div>
           </li>
